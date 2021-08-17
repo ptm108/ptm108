@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I'm a penultimate year student at the National University of Singapore's School of Computing
 - 🌱 I enjoy building aesthetic, scalable and secure web applications, 
